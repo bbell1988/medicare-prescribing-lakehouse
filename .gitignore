@@ -1,0 +1,17 @@
+# Source data and local data files
+data/
+*.csv
+
+# Python environments and generated files
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Credentials and local tooling
+.env
+.databricks/
+
+# Generated dbt files
+dbt/target/
+dbt/dbt_packages/

@@ -1,0 +1,4 @@
+
+[dev]
+pyspark>=3.5
+pytest>=8
